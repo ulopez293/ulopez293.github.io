@@ -858,12 +858,12 @@ Banner Style
 
 .main-banner .owl-nav .owl-prev i {
   position: absolute;
-  left: 45px;
+  left: 5px;
 }
 
 .main-banner .owl-nav .owl-next i {
   position: absolute;
-  right: 45px;
+  right: 5px;
 }
 
 .main-banner .owl-nav .owl-prev i:hover,
@@ -953,7 +953,7 @@ Featured Style
 .featured .section-heading {
   margin-left: 10px;
   margin-right: 10px;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
 }
 
 .featured .section-heading h2 {
